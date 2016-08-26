@@ -1,0 +1,1 @@
+CREATE table Gamblers(id serial primary key, login varchar(30) not null, password varchar(30) not null, balance INT)
